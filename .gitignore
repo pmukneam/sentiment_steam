@@ -1,4 +1,4 @@
-dataset/*
+data/dataset.csv
 tmp.py
 dev.py
 todo

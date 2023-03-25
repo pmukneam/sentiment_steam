@@ -13,7 +13,7 @@ from sklearn.metrics import f1_score
 ## Importing data
 
 # Importing Steam Review
-original_data = pd.read_csv("dataset/dataset.csv")
+original_data = pd.read_csv("data/dataset.csv")
 steam_review = original_data.head(1000000)
 
 # Selecting only the review and score column
